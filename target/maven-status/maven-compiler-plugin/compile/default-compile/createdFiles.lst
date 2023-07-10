@@ -1,5 +1,0 @@
-pe\edu\pucp\mspermission\controller\PermissionController.class
-pe\edu\pucp\mspermission\repository\PermissionRepository.class
-pe\edu\pucp\mspermission\dao\PermissionDao.class
-pe\edu\pucp\mspermission\entity\Permission.class
-pe\edu\pucp\mspermission\MsPermissionApplication.class

@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 @Data
 @Entity
-@Table(name = "PSTK_POLICY", schema = "pucp_stack")
+@Table(name = "pstk_policy", schema = "pucp_stack")
 public class Permission {
 
     @GeneratedValue(strategy = GenerationType.IDENTITY)
